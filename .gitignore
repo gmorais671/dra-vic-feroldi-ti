@@ -1,0 +1,10 @@
+node_modules/
+.npm-cache/
+.next/
+out/
+*.tsbuildinfo
+.env*
+!.env.example
+tmp/
+__pycache__/
+*.py[cod]
