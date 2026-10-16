@@ -21,6 +21,7 @@ O cabeçalho usa o nome e CRM, sem placeholder de logo. A apresentação usa uma
 - [Pesquisa de viabilidade e proposta](docs/07-pesquisa-e-proposta.md)
 - [Proposta resumida para a doutora](docs/08-proposta-resumida.md)
 - [Primeira landing e pendências de publicação](docs/09-primeira-landing.md)
+- [Publicação na Cloudflare](docs/12-deploy-cloudflare.md)
 
 ## Proposta para validação
 
